@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "ram": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sse",
+        "https://ram-heg2lzpui-r-krishna-mondals-projects.vercel.app/sse"
+      ]
+    }
+  }
+}
